@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+Build and deploy complete responsive website using React JS. create a college website will be completely responsive and add react smooth scroll, slider and working contact form on this website. You can receive the contact form enquirers on email address.
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
